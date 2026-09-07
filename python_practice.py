@@ -2,7 +2,11 @@
 # As discussed in class, feel free to use AI tools to help you complete this assignment, but remember to cite them.
 # I encourage you to try the problems yourself first and only use AI tools when you are stuck to benefit your learning. 
 
-#Matthew Cherry, vdq3xk
+# Matthew Cherry
+
+# Computing ID: vdq3xk
+
+# AI Citation: I used OpenAI on this assignment to check and proof-read my code.
 
 # %% ###########################################################
 # Problem 1: Practice writing pseudocode
@@ -152,5 +156,3 @@ print(sum_even_fib(13)) # 3) prints 23, adds 1 + 1 + 3 + 5 + 13, correct
 print(sum_even_fib(21)) # 4) prints 44, adds 1 + 1 + 3 + 5 + 13 + 21, correct
 print(sum_even_fib(20)) # 5) prints 23, does not include 20 because it is an even number and not in the fibonacci sequence, correct
 # %%
-
-# AI Citation: I used OpenAI on this assignment to check and proof-read my code.
